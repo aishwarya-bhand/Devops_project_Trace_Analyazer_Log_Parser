@@ -142,7 +142,7 @@ MONGO_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/logs
 
 ## 🙋‍♂️ Author
 
-**Shubham Nimkar**
+**Aishwarya Bhand**
 🔗 [GitHub](https://github.com/aishwarya-bhand)
 🔗 [LinkedIn](www.linkedin.com/in/aishwarya-bhand)
 
